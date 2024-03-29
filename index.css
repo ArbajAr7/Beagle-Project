@@ -1,0 +1,37 @@
+#headerdiv {
+  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+	font-size: 35px;
+	padding-left: 15px;
+	text-decoration: underline;
+	text-underline-offset:20%;
+}
+#headerp {
+	padding-top: 10px;
+	padding-left:15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+	font-size: 22px;
+}
+
+#headera {
+	color: black;
+	font-size: 22px;
+	padding-left: 15px;
+}
+img {
+	padding: 20px;
+}
+#sectiona {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	font-size: 22px;
+	padding-left: 15px;
+}
+li {
+	font-size: 22px;
+	padding: 3px;
+}
